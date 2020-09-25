@@ -17,7 +17,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Hello World
-          <h1>My name is Nabeel.</h1>
+          <h1>Nabeel</h1>
         </a>
       </header>
     </div>
